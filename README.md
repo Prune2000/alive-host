@@ -17,3 +17,5 @@ AliveHost is a simple bash script that takes a list of hosts (Ex: from Sublist3r
 * You need to install nmap 
 *  `chmod +x alive.sh`
 * ./alive.sh HostList.txt
+
+All of the domains / hosts that are up are saved in alive_hosts.txt
