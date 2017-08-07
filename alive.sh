@@ -47,7 +47,6 @@ else
 			echo -e $domain\ >> alive_hosts.txt
 		fi
 	done
-s
 echo -e '\n'
 echo -e "$GRN [+] Alive Hosts saved to$RED alive_hosts.txt $RST\n"
 fi
