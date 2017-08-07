@@ -10,7 +10,7 @@
  █   by Corben Douglas (@sxcurity)                                █
  █████                                                        █████
  ```
-AliveHost is a simple bash script that takes a list of hosts from Sublist3r and checks to see if they're alive!
+AliveHost is a simple bash script that takes a list of hosts (Ex: from Sublist3r) and checks to see if they're up / alive!
 
 ## Installion / Usage
 * You need Linux / Unix
