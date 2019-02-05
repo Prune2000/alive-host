@@ -7,7 +7,7 @@
  █   ███████ ██    ██  ██  ██ █████   ██████ ██  ██  ████   ██	  █      
  █   ██   ██ ██    ██  ██  ██ ██      ██  ██ ██  ██    ██   ██	  █      
  █   ██   ██ ████  ██   ████  █████   ██  ██ ██████ █████   ██	  █
- █   by Corben Douglas (@sxcurity)                                █
+ █   by Corben Leo (@hacker_)                                    █
  █████                                                        █████
  ```
 AliveHost is a simple bash script that takes a list of hosts (Ex: from Sublist3r) and checks to see if they're up / alive!
